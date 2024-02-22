@@ -1,20 +1,10 @@
 package com.asapoka.junit5.practice;
 
-import static org.junit.Assert.assertTrue;
+import org.junit.jupiter.api.Test;
 
-import org.junit.Test;
-
-/**
- * Unit test for simple App.
- */
-public class AppTest 
-{
-    /**
-     * Rigorous Test :-)
-     */
+public class AppTest {
     @Test
-    public void shouldAnswerWithTrue()
-    {
-        assertTrue( true );
+    void testMain() {
+
     }
 }
