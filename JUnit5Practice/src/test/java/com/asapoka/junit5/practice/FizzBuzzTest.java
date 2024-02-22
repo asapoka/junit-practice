@@ -2,9 +2,9 @@ package com.asapoka.junit5.practice;
 
 import org.junit.jupiter.api.Test;
 
-public class AppTest {
+public class FizzBuzzTest {
     @Test
-    void testMain() {
+    void testFizzBuzz() {
 
     }
 }
