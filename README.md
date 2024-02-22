@@ -8,19 +8,19 @@ mvn archetype:generate
 
 ### 色々聞かれるので答える
 
-```
+```zsh
 Choose a number or apply filter
 ```
 
 グループ ID の指定 → よくわからないので未指定
 
-```
+```zsh
 Choose org.apache.maven.archetypes:maven-archetype-quickstart version:
 ```
 
 mvn のバージョンを聞かれている？ → 最新を選ぶ（デフォルト）
 
-```
+```zsh
 Define value for property ‘groupId’::
 ```
 
@@ -28,13 +28,13 @@ Define value for property ‘groupId’::
 
 →com.asapoka
 
-```
+```zsh
 Define value for property ‘version’: 1.0-SNAPSHOT::
 ```
 
 バージョン名を聞かれている → 一旦デフォルト
 
-```
+```zsh
 Define value for property ‘package’:
 ```
 
