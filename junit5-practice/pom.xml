@@ -24,7 +24,7 @@
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter</artifactId>
       <version>5.5.2</version>
-      <scope>test</scope>
+      <scope>test</scope> <!-- テストでしか使わない場合はtestを指定-->
     </dependency>
   </dependencies>
 
