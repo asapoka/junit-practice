@@ -1,5 +1,6 @@
 {
-  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.configuration.updateBuildConfiguration": "automatic",
   "editor.formatOnSave": true, //保存時に自動フォーマット
-  "editor.defaultFormatter": "vscjava.vscode-java-debug" // デフォルトのフォーマッター
+  "editor.defaultFormatter": "vscjava.vscode-java-debug",
+  "java.compile.nullAnalysis.mode": "automatic" // デフォルトのフォーマッター
 }
